@@ -1,0 +1,25 @@
+{
+  "name": "eslint-plugin-expect",
+  "version": "0.1.0",
+  "description": "Eslint custom rules to help format BDD style unit tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddiesholl/eslint-plugin-expect.git"
+  },
+  "keywords": [
+    "eslint",
+    "rule",
+    "expect",
+    "bdd"
+  ],
+  "author": "eddiesholl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eddiesholl/eslint-plugin-expect/issues"
+  },
+  "homepage": "https://github.com/eddiesholl/eslint-plugin-expect#readme"
+}
